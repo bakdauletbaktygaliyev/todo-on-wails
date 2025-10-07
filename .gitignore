@@ -4,7 +4,6 @@ frontend/dist
 tasks.db
 .idea
 .vscode
-.gitattributes
 
 # Binaries and build output
 /build/
